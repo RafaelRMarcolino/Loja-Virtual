@@ -1,0 +1,20 @@
+package com.rafael.loja.virtual.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import com.rafael.loja.virtual.repository.FuncionarioRepositories;
+
+@Controller
+public class PrincipalController {
+	
+	@Autowired
+	private FuncionarioRepositories repo;
+	
+	@GetMapping("/administrativo")
+	public String acessarPrincipal() {
+		return "administrativo/home";
+	}
+
+}

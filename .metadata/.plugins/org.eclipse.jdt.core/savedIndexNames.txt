@@ -27,6 +27,7 @@ INDEX VERSION 1.131+C:\Users\ralfb\project\lojaVirtual\.metadata\.plugins\org.ec
 3802803360.index
 2001970522.index
 3982251086.index
+3349653787.index
 3836108562.index
 1780065531.index
 3094906702.index
@@ -59,7 +60,6 @@ INDEX VERSION 1.131+C:\Users\ralfb\project\lojaVirtual\.metadata\.plugins\org.ec
 1284416045.index
 1426192.index
 2209760762.index
-810164079.index
 289043740.index
 3593738678.index
 2353894610.index
@@ -96,6 +96,7 @@ INDEX VERSION 1.131+C:\Users\ralfb\project\lojaVirtual\.metadata\.plugins\org.ec
 1318624610.index
 4247970878.index
 2968455180.index
+842412124.index
 1747477386.index
 1938899521.index
 1974440006.index
