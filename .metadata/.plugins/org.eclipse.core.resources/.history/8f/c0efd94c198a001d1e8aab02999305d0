@@ -1,0 +1,5 @@
+package com.rafael.loja.virtual.repository;
+
+public class FuncionarioRepositories {
+
+}

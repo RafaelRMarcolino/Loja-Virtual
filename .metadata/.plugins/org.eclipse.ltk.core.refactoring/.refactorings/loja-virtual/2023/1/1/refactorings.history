@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.rafael.loja.virtual.models.Funcionarios&apos; to &apos;Funcionario&apos;&#x0D;&#x0A;- Original project: &apos;loja-virtual&apos;&#x0D;&#x0A;- Original element: &apos;com.rafael.loja.virtual.models.Funcionarios&apos;&#x0D;&#x0A;- Renamed element: &apos;com.rafael.loja.virtual.models.Funcionario&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Funcionarios&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.rafael.loja.virtual.models{Funcionarios.java[Funcionarios" matchStrategy="1" name="Funcionario" qualified="false" references="true" similarDeclarations="false" stamp="1672607711599" textual="false" version="1.0"/>
+</session>
